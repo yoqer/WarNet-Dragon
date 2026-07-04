@@ -23,13 +23,21 @@ __________________________________
 
 
 
-__________________________________
 
 __________________________________
+
+
 
 
 
 **Nota: ! Precaución !**
+
+
+
+__________________________________
+
+
+
 
 
 -No hacer esto en casa, ni sin conocimientos previos, ni sin formacion en riesgos innerentes.
