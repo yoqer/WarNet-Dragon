@@ -30,7 +30,7 @@ __________________________________
 
 
 
-**Nota: ! Precaución !**
+# **Nota: ! Precaución !**
 
 
 
@@ -40,13 +40,13 @@ __________________________________
 
 
 
--No hacer esto en casa, ni sin conocimientos previos, ni sin formacion en riesgos inherentes.
+-*No hacer esto en casa, ni sin conocimientos previos, ni sin formacion en riesgos inherentes*.
 
 __________________________________
 
 
 
-# ***Advertencia Importante:***
+# ***! Advertencia !***
 
 __________________________________
 
