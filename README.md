@@ -40,6 +40,18 @@ __________________________________
 
 
 
--No hacer esto en casa, ni sin conocimientos previos, ni sin formacion en riesgos innerentes.
+-No hacer esto en casa, ni sin conocimientos previos, ni sin formacion en riesgos inherentes.
 
+__________________________________
+
+
+
+# ***Advertencia Importante:***
+
+__________________________________
+
+
+La construcción de estos dispositivos implican riesgos eléctricos mortales y daños permanentes a la visión si no se siguen estrictamente las medidas de seguridad descritas.
+
+__________________________________
 
