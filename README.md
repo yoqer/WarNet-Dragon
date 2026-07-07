@@ -5,6 +5,7 @@ El Dragón es un Laser, que escupe Fuego pulsado.  *Fuego Laser*...
 
 __________________________________
 
+<img width="640" height="480" alt="time-travel" src="https://github.com/user-attachments/assets/a7f6bc34-bac8-46a0-a8d7-cacdb0b3c0d8" />
 
 
 
