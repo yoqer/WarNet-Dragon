@@ -30,7 +30,7 @@ __________________________________
 
 
 
-# **Nota: ! Precaución !**
+# **! Precaución !**
 
 
 
@@ -51,7 +51,7 @@ __________________________________
 __________________________________
 
 
-La construcción de estos dispositivos implican riesgos eléctricos mortales y daños permanentes a la visión si no se siguen estrictamente las medidas de seguridad descritas.
+La construcción de estos dispositivos implican riesgos eléctricos mortales y daños permanentes a la visión si no se siguen estrictamente las medidas de seguridad descritas u otras.
 
 __________________________________
 
