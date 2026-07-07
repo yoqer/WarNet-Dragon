@@ -1,12 +1,12 @@
-<img width="1920" height="1920" alt="IMG_20251218_011616" src="https://github.com/user-attachments/assets/cdf5c2ff-e742-4209-b447-7ee595dcea79" />__________________________________
+<img width="1920" height="1920" alt="IMG_20251218_011616" src="https://github.com/user-attachments/assets/cdf5c2ff-e742-4209-b447-7ee595dcea79" />
+__________________________________
 
 # WarNet-Dragon
 El Dragón es un Laser, que escupe Fuego pulsado.  *Fuego Laser*...
 
 __________________________________
 
-<img width="640" height="480" alt="time-travel" src="https://github.com/user-attachments/assets/a7f6bc34-bac8-46a0-a8d7-cacdb0b3c0d8" />
-
+[<img width="640" height="480" alt="time-travel" src="https://github.com/user-attachments/assets/a7f6bc34-bac8-46a0-a8d7-cacdb0b3c0d8" />](https://github.com/yoqer/WarNet-Mini-Dragon-Ball)
 
 
 
